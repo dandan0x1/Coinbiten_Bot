@@ -29,8 +29,8 @@ pip install aiohttp colorama
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/coinbiten-automation.git
-cd coinbiten-automation
+git clone https://github.com/dandan0x1/Coinbiten_Bot.git
+cd Coinbiten_Bot
 ```
 
 2. **安装依赖**
